@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NecnatAbp.Br.GePessoaFisica</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\NecnatAbp.Br.GePessoaFisica.Domain\NecnatAbp.Br.GePessoaFisica.Domain.csproj" />
+    <ProjectReference Include="..\NecnatAbp.Br.GePessoaFisica.TestBase\NecnatAbp.Br.GePessoaFisica.TestBase.csproj" />
+  </ItemGroup>
+
+
+</Project>

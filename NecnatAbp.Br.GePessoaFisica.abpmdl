@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "NecnatAbp.Br.GePessoaFisica.Domain.Shared": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Domain.Shared/NecnatAbp.Br.GePessoaFisica.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Domain": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Domain/NecnatAbp.Br.GePessoaFisica.Domain.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Application.Contracts": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Application.Contracts/NecnatAbp.Br.GePessoaFisica.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Application": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Application/NecnatAbp.Br.GePessoaFisica.Application.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore/NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.MongoDB": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.MongoDB/NecnatAbp.Br.GePessoaFisica.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.HttpApi": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.HttpApi/NecnatAbp.Br.GePessoaFisica.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.HttpApi.Client": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.HttpApi.Client/NecnatAbp.Br.GePessoaFisica.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.TestBase": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.TestBase/NecnatAbp.Br.GePessoaFisica.TestBase.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore.Tests": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore.Tests/NecnatAbp.Br.GePessoaFisica.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.MongoDB.Tests": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.MongoDB.Tests/NecnatAbp.Br.GePessoaFisica.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Domain.Tests": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.Domain.Tests/NecnatAbp.Br.GePessoaFisica.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Application.Tests": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.Application.Tests/NecnatAbp.Br.GePessoaFisica.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.HttpApi.Host": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.HttpApi.Host/NecnatAbp.Br.GePessoaFisica.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Web": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Web/NecnatAbp.Br.GePessoaFisica.Web.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/NecnatAbp.Br.GePessoaFisica.HttpApi.Client.ConsoleTestApp/NecnatAbp.Br.GePessoaFisica.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Web.Host": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.Web.Host/NecnatAbp.Br.GePessoaFisica.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.AuthServer": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.AuthServer/NecnatAbp.Br.GePessoaFisica.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Host.Shared": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.Host.Shared/NecnatAbp.Br.GePessoaFisica.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Web.Unified": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.Web.Unified/NecnatAbp.Br.GePessoaFisica.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Blazor": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Blazor/NecnatAbp.Br.GePessoaFisica.Blazor.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Blazor.Host": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.Blazor.Host/NecnatAbp.Br.GePessoaFisica.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Blazor.Server": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Blazor.Server/NecnatAbp.Br.GePessoaFisica.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Blazor.WebAssembly": {
+      "path": "src/NecnatAbp.Br.GePessoaFisica.Blazor.WebAssembly/NecnatAbp.Br.GePessoaFisica.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GePessoaFisica.Blazor.Server.Host": {
+      "path": "host/NecnatAbp.Br.GePessoaFisica.Blazor.Server.Host/NecnatAbp.Br.GePessoaFisica.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

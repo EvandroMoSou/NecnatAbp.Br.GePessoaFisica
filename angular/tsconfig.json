@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@necnat-abp.Br/ge-pessoa-fisica": [
+        "projects/ge-pessoa-fisica/src/public-api.ts"
+      ],
+      "@necnat-abp.Br/ge-pessoa-fisica/config": [
+        "projects/ge-pessoa-fisica/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/ge-pessoa-fisica/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/ge-pessoa-fisica/src/lib/proxy/*"]
+    }
+  }
+}

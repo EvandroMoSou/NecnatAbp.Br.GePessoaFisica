@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "NecnatAbp.Br.GePessoaFisica": {
+      "path": "NecnatAbp.Br.GePessoaFisica.abpmdl"
+    }
+  }
+}
