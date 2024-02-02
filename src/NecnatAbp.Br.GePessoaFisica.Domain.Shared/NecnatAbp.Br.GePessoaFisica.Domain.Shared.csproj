@@ -8,7 +8,7 @@
     <RootNamespace></RootNamespace>
     <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>8.0.2-xTest001</Version>
+    <Version>8.0.2-xTest002</Version>
   </PropertyGroup>
 
   <ItemGroup>

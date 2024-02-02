@@ -6,5 +6,6 @@ namespace NecnatAbp.Br.GePessoaFisica
     public class PortariaNaturalizacao : AuditedAggregateRoot<Guid>
     {
         public string Nome { get; set; } = string.Empty;
+        public bool InAtivo { get; set; }
     }
 }
