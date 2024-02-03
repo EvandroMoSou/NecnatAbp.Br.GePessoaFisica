@@ -11,6 +11,9 @@ namespace NecnatAbp.Br.GePessoaFisica
         Masculino = 1,
 
         [Description("Feminino")]
-        Feminino = 2
+        Feminino = 2,
+
+        [Description("Intersexo")]
+        Intersexo = 3
     }
 }
